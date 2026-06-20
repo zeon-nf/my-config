@@ -13,8 +13,7 @@ define @desktop as:
 "gnome"           # gnome inteiro
 "qemu"
 "gnome-boxes"
-"libvirglrenderer"
-"mesa*"
+"libvirglrenderer1"
 
 # Utilities and hardware tweaks
 define @utils as:
