@@ -10,10 +10,8 @@ define @core as:
 
 # Desktop environment and user-facing applications
 define @desktop as:
-"gnome"           # gnome inteiro
-"qemu"
+"gnome"           # gnome 
 "gnome-boxes"
-"libvirglrenderer1"
 
 # Utilities and hardware tweaks
 define @utils as:
